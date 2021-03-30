@@ -1,9 +1,8 @@
 # GraphicDesignsPortfolio
 
-W obecnym folderze znajdują się PDFy projektów, które przygotowałem dla poszczególnych firm lub producentów.
-W pozostałych folderach znajdują się pliki .jpg lub .png, które przygotowywałem w różnych celach tj.
->Marketing na Facebooku
->Banery na Stronie Sklepu
->Plakaty
->Ulotki
+Welcome to my Portfolio!
+
+My name is Przemysław Wiśniewski and I'm Graphic Designer.
+
+I'm a specialist in preparing printed and digital materials (presentations, brochures, newsletters, illustrations, graphics, banners and corporate layouts)
 
